@@ -1,0 +1,6 @@
+Os beneficios de se usar git para versionar projetos:
+- Controle de versionamento do projeto,
+- Facilidade em trabalhar em equipe,
+- Possibilidade de reverter códigos,
+- Uso gratuito,
+- Fácil compartilhamento de código.
